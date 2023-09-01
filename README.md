@@ -1,6 +1,8 @@
 # AI Summarizer using React, Redux, Redux Toolkit, and Tailwind CSS
 
-![Project Logo](AISummerizer/AISummarizer/src/assets/logo.svg)
+![Project Logo](AISummerizer/AISummarizer/src/assets
+/logo.svg
+)
 
 ## Table of Contents
 - [Introduction](#introduction)
