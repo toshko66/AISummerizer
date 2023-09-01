@@ -1,6 +1,6 @@
 # AI Summarizer using React, Redux, Redux Toolkit, and Tailwind CSS
 
-
+![Project Logo](/assets/logo.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
