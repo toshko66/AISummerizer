@@ -1,5 +1,5 @@
-import Hero from "./components/Hero";
-import Demo from "./components/Demo";
+import Hero from "./Components/Hero";
+import Demo from "./Components/Demo";
 
 import "./App.css";
 
